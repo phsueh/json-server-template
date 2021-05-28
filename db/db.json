@@ -1,16 +1,14 @@
 {
-  "toys": [
+  "jives": [
     {
       "id": 1,
-      "name": "Woody",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
-    },
-    {
-      "id": 8,
-      "name": "Little Green Men",
-      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "name": "",
+      "type": "",
+      "post": "",
+      "url": "",
+      "likes": 0,
+      "dislikes": 0, 
+      "favorite": false
     }
   ]
 }
