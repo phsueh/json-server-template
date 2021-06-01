@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "userInfo": [
   {"Id": 1,
   "Name": "user1",
@@ -29,3 +30,18 @@
       }
 
   ]}
+=======
+  "jives": [
+    {
+      "id": 1,
+      "name": "",
+      "type": "",
+      "post": "",
+      "url": "",
+      "likes": 0,
+      "dislikes": 0, 
+      "favorite": false
+    }
+  ]
+}
+>>>>>>> 4e33d957fe96bd83085f9e0cfd4d83a0267fb571
