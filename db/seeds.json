@@ -1,36 +1,4 @@
 {
-<<<<<<< HEAD
-  "userInfo": [
-  {"Id": 1,
-  "Name": "user1",
-  "Type": "category",
-  "Post": "",
-  "URL": "http://image.com",
-  "Likes": 23,
-  "Dislikes": 20,
-  "Favorited": false
-  },
-  {"Id": 2,
-    "Name": "user2",
-    "Type": "category",
-    "Post": "",
-    "URL": "http://image.com",
-    "Likes": 23,
-    "Dislikes": 20,
-    "Favorited": false
-    },
-    {"Id": 3,
-      "Name": "user3",
-      "Type": "category",
-      "Post": "",
-      "URL": "http://image.com",
-      "Likes": 23,
-      "Dislikes": 20,
-      "Favorited": true
-      }
-
-  ]}
-=======
   "jives": [
     {
       "id": 1,
@@ -44,4 +12,3 @@
     }
   ]
 }
->>>>>>> 4e33d957fe96bd83085f9e0cfd4d83a0267fb571

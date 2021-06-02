@@ -1,47 +1,48 @@
 {
-<<<<<<< HEAD
-  "userInfo": [
-  {"Id": 1,
-  "Name": "user1",
-  "Type": "category",
-  "Post": "",
-  "URL": "http://image.com",
-  "Likes": 23,
-  "Dislikes": 20,
-  "Favorited": false
-  },
-  {"Id": 2,
-    "Name": "user2",
-    "Type": "category",
-    "Post": "",
-    "URL": "http://image.com",
-    "Likes": 23,
-    "Dislikes": 20,
-    "Favorited": false
-    },
-    {"Id": 3,
-      "Name": "user3",
-      "Type": "category",
-      "Post": "",
-      "URL": "http://image.com",
-      "Likes": 23,
-      "Dislikes": 20,
-      "Favorited": true
-      }
-
-  ]}
-=======
   "jives": [
     {
       "id": 1,
-      "name": "",
+      "name": "Governor Kate Brown",
       "type": "",
-      "post": "",
-      "url": "",
-      "likes": 0,
+      "post": "Thanks to everyone who has been vaccinated so far, Oregon’s case rates have continued to decline. Effective Friday 6/4 through Thursday 6/10, there will be 19 counties in the Lower Risk Level, 4 at Moderate Risk, and 13 counties in High Risk.",
+      "pics": "",
+      "url": "https://t.co/su7nbUSuIV?amp=1",
+      "likes": 15,
       "dislikes": 0, 
+      "favorite": false
+    },
+    {
+      "id": 2,
+      "name": "Call of Duty League",
+      "type": "Gaming",
+      "post": "THEY SIT ATOP THE THRONE: The DallasEmpire claim the title of Call of Duty League 2020 Champions!",
+      "pics": "",
+      "url": "",
+      "likes": 21,
+      "dislikes": 0, 
+      "favorite": false
+    },
+    {
+      "id": 3,
+      "name": "SportsCenter",
+      "type": "Sports",
+      "post": "Bradley Beal when asked if he feels less safe in NBA arenas due to recent fan misbehavior: \"I wouldn't say less safe. I don't wanna use my hood term, but these hands work.\"",
+      "pics": "https://www.si.com/.image/t_share/MTc4MTc5NTcwNjY5NzI1Mjg4/bradley-beal-dribbles-suns.jpg",
+      "url": "https://twitter.com/i/status/1399801156860325893",
+      "likes": 150,
+      "dislikes": 21, 
+      "favorite": false
+    },
+    {
+      "id": 4,
+      "name": "NBA",
+      "type": "Sports",
+      "post": "KD swat off the backboard. Beard to Durant in transition. Kyrie attacks baseline for two.",
+      "pics": "https://sportshub.cbsistatic.com/i/2021/01/21/34f443bb-93be-43c3-841a-a5d75030893d/gettyimages-1297510360.jpg",
+      "url": "https://twitter.com/i/status/1399801156860325893",
+      "likes": 212,
+      "dislikes": 155, 
       "favorite": false
     }
   ]
 }
->>>>>>> 4e33d957fe96bd83085f9e0cfd4d83a0267fb571
