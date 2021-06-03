@@ -13,11 +13,11 @@
     },
     {
       "id": 2,
-      "name": "Call of Duty League",
-      "type": "News",
+      "name": "Call of Duty League: Warzone",
+      "type": "Gaming",
       "post": "THEY SIT ATOP THE THRONE: The DallasEmpire claim the title of Call of Duty League 2020 Champions!",
       "pics": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/warzone/common/social-share/zeus-s3-wz-social-share.jpg",
-      "url": "",
+      "url": "https://www.callofduty.com/warzone",
       "likes": 16,
       "dislikes": 6,
       "favorite": true
@@ -69,11 +69,11 @@
     {
       "name": "Frank Sinatra",
       "type": "News",
-      "post": "Music and more music",
+      "post": "Music and more music by Frank Sinatra",
       "pics": "https://cdn.abcotvs.com/dip/images/1119377_121115-c-sinatra-1280.jpg?w=1280&r=16%3A9",
       "url": "",
-      "likes": 0,
-      "dislikes": 0,
+      "likes": 1,
+      "dislikes": 3,
       "favorite": false,
       "id": 7
     },
