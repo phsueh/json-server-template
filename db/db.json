@@ -14,7 +14,7 @@
     {
       "id": 2,
       "name": "Call of Duty League",
-      "type": "Gaming",
+      "type": "News",
       "post": "THEY SIT ATOP THE THRONE: The DallasEmpire claim the title of Call of Duty League 2020 Champions!",
       "pics": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/warzone/common/social-share/zeus-s3-wz-social-share.jpg",
       "url": "",
@@ -45,11 +45,11 @@
       "favorite": false
     },
     {
-      "name": "John Doe",
+      "name": "Pig couch NOT for sale",
       "type": "News",
       "post": "New Post",
       "pics": "https://static01.nyt.com/images/2020/11/26/fashion/18PIG-COUCH/18PIG-COUCH-videoSixteenByNineJumbo1600-v3.jpg",
-      "url": "www.www.com",
+      "url": "https://www.nytimes.com/2020/11/18/style/pig-couch-craigslist-fake.html?searchResultPosition=1",
       "likes": 9,
       "dislikes": 2,
       "favorite": true,
@@ -76,6 +76,61 @@
       "dislikes": 0,
       "favorite": false,
       "id": 7
+    },
+    {
+      "name": "Lucifer on Netflix",
+      "type": "TV Shows",
+      "post": "While many viewers enjoy the show, some think the producers have gone to far with supernatural side of things. Please lets just go back to the basics of Chloe and Lucifer fighting crime with  more \"down to earth\" drama!",
+      "pics": "https://tvline.com/wp-content/uploads/2019/04/lucifer-4x10.jpg?w=620",
+      "url": "https://cinedope.com/will-gods-addition-in-lucifer-make-or-mar-the-series/",
+      "likes": 1,
+      "dislikes": 0,
+      "favorite": true,
+      "id": 8
+    },
+    {
+      "name": "101 Poodles",
+      "type": "Animals",
+      "post": "I love a non-shedding/low-shedding dog as much as the next person, but poodles don't need to be mixed with this many other breeds.",
+      "pics": "https://www.loveyourdog.com/wp-content/uploads/2019/08/Poodle-Mixed-Breeds-Types-of-Cross-Breed-Poodles-900x500.jpg",
+      "url": "https://www.loveyourdog.com/poodle-mixes/",
+      "likes": 8,
+      "dislikes": 8,
+      "favorite": "",
+      "id": 9
+    },
+    {
+      "name": "React Modals",
+      "type": "Coding",
+      "post": "Get help building react modals",
+      "pics": "data:image/png;base64,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",
+      "url": "https://react-popup.elazizi.com/controlled-popup/",
+      "likes": 6,
+      "dislikes": 5,
+      "favorite": true,
+      "id": 10
+    },
+    {
+      "name": "semantic-ui-react",
+      "type": "Coding",
+      "post": "Make sure you install semantic-ui-react before using Form ",
+      "pics": "https://i.morioh.com/200629/aff99a6a.jpg",
+      "url": "https://react.semantic-ui.com/usage/",
+      "likes": 5,
+      "dislikes": 3,
+      "favorite": false,
+      "id": 11
+    },
+    {
+      "name": "Assassin's Creed Valhalla: Wrath of the Druids",
+      "type": "Gaming",
+      "post": "Time to buy the new Assassin's Creed if you haven't already done so. ",
+      "pics": "https://www.gameinformer.com/sites/default/files/styles/full/public/2021/04/14/81968303/wrath_of_the_druids.jpg",
+      "url": "https://www.gamasutra.com/view/news/382320/Inside_Assassins_Creed_Valhalla_Wrath_of_the_Druids_new_ingame_economy.php",
+      "likes": 5,
+      "dislikes": 3,
+      "favorite": false,
+      "id": 12
     }
   ]
 }
